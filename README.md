@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-	</head>
+<head>
+    <meta charset="UTF-8">
+</head>
 <body>
-
-<form>
-first number:<br>
-<input type="text" id="num1">
-<br>
-second number:<br>
-<input type="text" id="num2">
-<br>
-result here:<br>
-<p id="result"></p>
-<br>
-</form>
+    <form>
+    first number:<br>
+    <input type="text" id="num1">
+    <br>
+    second number:<br>
+    <input type="text" id="num2">
+    <br>
+    result here:<br>
+    <p id="result"></p>
+    <br>
+    </form>
 
 <button id = "add">+</button>
 <button id = "minus">-</button>
